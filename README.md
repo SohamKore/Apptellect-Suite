@@ -5,7 +5,7 @@ It's a PHP project I'm developing to manage property affairs efficiently. Users 
 
 <hr>
 
-#Screenshots
+# Screenshots
 <p align="center">
   <img src="https://raw.githubusercontent.com/SohamKore/Apptellect-Suite/main/images/msedge_qG2BQ38yxL.png"/>
   <img src="https://raw.githubusercontent.com/SohamKore/Apptellect-Suite/main/images/msedge_wAUjAnpNtQ.png" />
