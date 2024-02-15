@@ -1,11 +1,13 @@
 # Apptellect-Suite
-Work in progress!
+Working on it
+
+<hr>
 
 #Screenshots
 <p align="center">
   <img src="https://raw.githubusercontent.com/SohamKore/Apptellect-Suite/main/images/msedge_qG2BQ38yxL.png"/>
-  <img src="image2.jpg" width="200" />
-  <img src="image3.jpg" width="200" />
-  <img src="image4.jpg" width="200" />
-  <img src="image5.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/SohamKore/Apptellect-Suite/main/images/msedge_wAUjAnpNtQ.png)https://raw.githubusercontent.com/SohamKore/Apptellect-Suite/main/images/msedge_wAUjAnpNtQ.png" />
+  <img src="https://raw.githubusercontent.com/SohamKore/Apptellect-Suite/main/images/msedge_wba8Gblt7Z.png)https://raw.githubusercontent.com/SohamKore/Apptellect-Suite/main/images/msedge_wba8Gblt7Z.png" />
+  <img src="https://raw.githubusercontent.com/SohamKore/Apptellect-Suite/main/images/msedge_604r4au8XO.png)https://raw.githubusercontent.com/SohamKore/Apptellect-Suite/main/images/msedge_604r4au8XO.png" />
+  <img src="https://raw.githubusercontent.com/SohamKore/Apptellect-Suite/main/images/msedge_z0cKYvMsoe.png)https://raw.githubusercontent.com/SohamKore/Apptellect-Suite/main/images/msedge_z0cKYvMsoe.png"  />
 </p>
